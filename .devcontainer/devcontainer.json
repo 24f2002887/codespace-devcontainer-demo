@@ -7,7 +7,7 @@
 
   "features": {
     // Install Python using the devcontainer feature.
-    "ghcr.io/devcontainers/features/ python:3.11-slim": {}
+    "ghcr.io/devcontainers/features/python:3.11-slim": {}
   },
 
   "customizations": {
