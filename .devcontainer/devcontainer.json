@@ -1,6 +1,6 @@
 {
   // The name for the devcontainer, as required by the exam.
-  "name": "24f2002887",
+  "name": "ga2-41649c",
 
   // Use a base image. The Universal Image is a good default.
   "image": "mcr.microsoft.com/devcontainers/universal:2",
